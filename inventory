@@ -1,0 +1,4 @@
+[masters] 
+openshiftmaster01 ha_vrrp_cidr=172.10.1.10/24 
+openshiftmaster02 ha_vrrp_cidr=172.10.1.19/24 
+openshiftmaster03 ha_vrrp_cidr=172.10.1.23/24 
